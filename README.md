@@ -61,13 +61,26 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ```plaintext
 .
-├── assets/
+├── assets/                     # Static assets for the webpage
 │   ├── css/
-│   │   └── style.css        # Styling for the project
-│   ├── images/              # Images used across the portfolio
-│   └── fonts/               # Custom fonts used in the design
-├── index.html               # Main HTML file
-└── README.md                # Project documentation
+│   │   └── style.css           # Stylesheet for the webpage
+│   ├── images/                 # Images used in the project
+│       ├── img1.jpg            # Profile photo
+│       ├── html.png            # HTML logo for skills section
+│       ├── css.png             # CSS logo for skills section
+│       ├── javascript.png      # JavaScript logo for skills section
+│       ├── bootstrap.png       # Bootstrap logo for skills section
+│       ├── python.png          # Python logo for skills section
+│       ├── java.png            # Java logo for skills section
+│       ├── sublime.png         # Sublime Text logo for tools section
+│       ├── vs.png              # VS Code logo for tools section
+│       ├── tableau.png         # Tableau logo for tools section
+│       ├── github.png          # GitHub logo for tools section
+│       ├── eclipse.png         # Eclipse logo for tools section
+│       ├── vmware.png          # VMware logo for tools section
+│       └── jd_logo.png         # Personal logo
+├── index.html                  # Main HTML file
+├── README.md                   # Documentation file    display this 
 ```
 ## 📞 Contact
 
