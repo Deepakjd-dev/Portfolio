@@ -33,7 +33,7 @@ To view this portfolio locally, follow these steps:
 
 ## 📸 Screenshots
 
-![Portfolio Screenshot](assets/images/portfolio-screenshot.png)
+![Portfolio Screenshot](Portfolio/assets/images/web.png)
 
 ## 🛠️ Usage
 
